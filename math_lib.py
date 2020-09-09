@@ -4,3 +4,5 @@ def div(a, b):
 	else:
 	 return None
 
+def add(a,b):
+	return a+b
